@@ -263,7 +263,7 @@ comments
 }
 .founder {
   display: flex;
-  width: 100px;
+  width: 70px;
   height: 40px;
   box-sizing: border-box;
   align-items: left;
@@ -305,7 +305,7 @@ form
   padding: 4rem;
   border-radius: var(--radius);
   box-shadow: 3px 3px 5px var(--clr-primary);
-  max-width: 780px;
+  max-width: 1120px;
   margin-bottom: 0;
 }
 .early p {
@@ -313,10 +313,10 @@ form
 }
 .email {
   display: block;
-  width: 20rem;
+  width: 15rem;
   padding: 1.25rem 3rem;
   border: none;
-  margin-bottom: 1.25rem;
+
   background: var(--clr-grey-10);
   border-radius: 3rem;
   margin: 1rem auto;
@@ -329,7 +329,7 @@ form
   text-align: center;
 }
 .form-btn {
-  width: 20rem;
+  width: 15rem;
   padding: 1.25rem 3rem;
   letter-spacing: 0.5px;
 }
